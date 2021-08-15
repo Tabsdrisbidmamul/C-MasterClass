@@ -3,7 +3,7 @@ int main()
 {
   char text[100];
   int i;
-
+  
   printf("Enter a value: ");
   scanf("%s %d", text, &i);
 
